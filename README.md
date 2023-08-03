@@ -1,5 +1,5 @@
 
-<center> <img src = /logoMoon.png >  </center> 
+<center![logoMoon](https://github.com/karinapedra/SAP011-card-validation/assets/134289862/2a435f18-1c99-42ad-bf26-13f9c901b1c6)
 
 # Validação de Cartão de Crédito 🛰️![GIF da animação](link_para_gif_da_animação.gif)
 ---
