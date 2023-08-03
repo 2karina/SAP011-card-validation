@@ -3,7 +3,7 @@
 ---
 # Validação de Cartão de Crédito 🛰️![GIF da animação](link_para_gif_da_animação.gif)
 ---
- ![StatusEmDdesenvolvimento] (https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-orange)
+![StatusEmDdesenvolvimento] (https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-orange)
 
 
 ## Índice
