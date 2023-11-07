@@ -1,4 +1,8 @@
+<center>
+
 ![Logo da Moon Express](https://github.com/karinapedra/SAP011-card-validation/assets/134289862/ca78f1f4-70c1-4b45-85bb-0cd6879d092e)
+
+</center>
 
 ---
 # Validação de Cartão de Crédito 🛰️![GIF da animação](link_para_gif_da_animação.gif)
